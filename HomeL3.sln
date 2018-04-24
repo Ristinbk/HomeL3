@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Домашние - Л3", "Домашние - Л3\Домашние - Л3.csproj", "{4009120B-716D-4780-95D3-95A04010DE4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeL3", "Домашние - Л3\HomeL3.csproj", "{4009120B-716D-4780-95D3-95A04010DE4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

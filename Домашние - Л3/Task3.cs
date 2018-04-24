@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ДHomeL3
+namespace HomeL3
 {
     public static  class Task3
     {
